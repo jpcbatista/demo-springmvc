@@ -1,0 +1,21 @@
+implementar paginacao em todas as listas
+
+garantir que os pedidos visializados na aba da oferta não sejam do usuario logado
+
+implementar a opção de recusar uma oferta
+
+implementar uma aba para visualizar todas as ofertas que o usuario fez e outra que fizeram para ele
+
+implementar a opcao de editar uma oferta ou pedido
+
+implementar a opção de aceitar o pedido
+
+remover o pedido da lista de pedidos depois que o usuario fizer uma oferta
+
+criar um formulario para cadastrar novos usuarios
+
+guardar dados do interceptor no banco de dados
+
+implementar novo status pendente
+
+colocar titulo nas paginas
