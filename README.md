@@ -8,5 +8,3 @@ Esse projeto utiliza:
 - Spring Security
 - Thymeleaf
 - Bootstrap
-
-Falta implementar uma pagina de cadastro, paginação nas listas e um novo status do produto. 
